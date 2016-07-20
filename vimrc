@@ -93,6 +93,7 @@ let mapleader = "," " The default leader is '\', but many people prefer Space as
 " UI
 set showcmd " show command you had enter
 set nu " show line numbers
+set relativenumber " show offset relative to current position
 set wildmenu " visual autocomplete command menu
 set showmatch " highlight matching [{()}]
 set cursorline " highlight current line
